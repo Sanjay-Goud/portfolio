@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
       { name: 'Python', level: 60 },
       { name: 'C', level: 80 },
       { name: 'HTML, CSS, JavaScript', level: 75 },
-      { name: 'React (Basic)', level: 50 },
+      { name: 'React (Basic)', level: 40 },
       { name: 'MySQL', level: 80 },
       { name: 'Git', level: 85 }
     ];
