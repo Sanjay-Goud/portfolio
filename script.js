@@ -103,13 +103,13 @@ document.addEventListener('DOMContentLoaded', () => {
   if (skillsList) {
     // Define skills with their proficiency levels
     const skills = [
-      { name: 'Java', level: 85 },
-      { name: 'Python', level: 80 },
-      { name: 'C', level: 70 },
+      { name: 'Java', level: 80 },
+      { name: 'Python', level: 60 },
+      { name: 'C', level: 80 },
       { name: 'HTML, CSS, JavaScript', level: 75 },
-      { name: 'React (Basic)', level: 60 },
-      { name: 'MySQL', level: 75 },
-      { name: 'Git', level: 70 }
+      { name: 'React (Basic)', level: 50 },
+      { name: 'MySQL', level: 80 },
+      { name: 'Git', level: 85 }
     ];
 
     // Clear existing list
